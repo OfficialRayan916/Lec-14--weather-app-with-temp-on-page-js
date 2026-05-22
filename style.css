@@ -1,0 +1,13 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.ab:focus{
+    background-color: orange;
+    color: black;
+}
+
+.ab:hover{
+    background-color: gainsboro;
+    color: black;
+}
